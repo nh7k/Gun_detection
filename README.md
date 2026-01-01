@@ -8,6 +8,9 @@ A live weapon detection system that uses YOLOv5 to detect guns in real-time thro
 
 ---
 
+
+LIVE DEMO (https://www.linkedin.com/posts/nitish-kumar-30ab32288_ai-machinelearning-yolov5-activity-7412346754081419264-MoT0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXvRjoBDOfUFujQYqEcl_WwyKiWZkit1fk)
+
 ## 🎯 What Does This Do?
 
 - **Detects guns in real-time** from webcam feed
@@ -292,7 +295,7 @@ MIT License - Free to use for educational purposes
 
 ---
 
-## 🙏 Credits
+##Credits
 
 - **YOLOv5** - Ultralytics
 - **Dataset** - Nikhil Ajani (Kaggle)
@@ -308,4 +311,4 @@ If this helped you, please star ⭐ the repository!
 
 **Made for Security & Safety Applications** 🛡️
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
